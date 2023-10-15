@@ -1,0 +1,50 @@
+* {
+    margin: 0%;
+    padding: 0%;
+    background-color: black;
+    color: white;
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-left: 1%;
+
+}
+
+.Title {
+    font-style: italic;
+    margin-top: 1%;
+    padding: 10px;
+    border-style: inset;
+    border-radius: 10px;
+}
+
+h1 {
+    margin-bottom: 10px;
+}
+
+.Text {
+    font-style: italic;
+    margin-top: 20px;
+}
+
+button {
+    font-style: italic;
+    margin-top: 20px;
+    padding: 20px;
+    padding-top: 0.75%;
+    padding-bottom: 0.75%;
+    border-radius: 10px;
+    border-color: white;
+
+
+}
+
+button:hover {
+    color: rgb(119, 255, 0);
+    border-color: #ffffff;
+    box-shadow: 0 0 10px rgba(0, 255, 81, 0.607);
+
+}
