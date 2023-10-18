@@ -62,8 +62,8 @@ button {
 }
 
 .clear:hover {
-    color: rgb(0, 30, 255);
+    color: rgba(188, 188, 188, 0.651);
     border-color: #ffffff;
-    box-shadow: 0 0 20px rgba(0, 51, 255, 0.607);
+    box-shadow: 0 0 20px rgba(255, 255, 255, 0.564);
 
 }
