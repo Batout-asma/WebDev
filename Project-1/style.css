@@ -48,6 +48,6 @@ button {
 button:hover {
     color: rgb(119, 255, 0);
     border-color: #ffffff;
-    box-shadow: 0 0 10px rgba(0, 255, 81, 0.607);
+    box-shadow: 0 0 20px rgba(0, 255, 81, 0.607);
 
 }
