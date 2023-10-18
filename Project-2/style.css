@@ -26,7 +26,8 @@ body {
 }
 
 .owner {
-    margin-left: 130px;
+    margin-left: 100px;
+    padding: 0px 15px;
 }
 
 .text {
