@@ -71,3 +71,15 @@ button {
     box-shadow: 0 0 20px rgba(255, 255, 255, 0.564);
 
 }
+
+.clear {
+    color: white;
+}
+
+.positive {
+    color: rgb(119, 255, 0);
+}
+
+.negative {
+    color: rgb(255, 0, 0);
+}
