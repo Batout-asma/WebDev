@@ -36,10 +36,6 @@ body {
     margin-top: 20px;
 }
 
-.number {
-    font-weight: bold;
-}
-
 button {
     font-style: italic;
     margin-top: 20px;
@@ -74,6 +70,7 @@ button {
 }
 
 .clear {
+    font-weight: bold;
     color: white;
 }
 
