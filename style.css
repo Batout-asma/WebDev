@@ -35,22 +35,3 @@ body {
     font-style: italic;
     margin-top: 20px;
 }
-
-button {
-    font-style: italic;
-    margin-top: 30px;
-    padding: 20px;
-    padding-top: 0.75%;
-    padding-bottom: 0.75%;
-    border-radius: 10px;
-    border-color: white;
-
-
-}
-
-button:hover {
-    color: rgb(25, 0, 255);
-    border-color: #ffffff;
-    box-shadow: 0 0 20px rgba(11, 27, 255, 0.607);
-
-}
